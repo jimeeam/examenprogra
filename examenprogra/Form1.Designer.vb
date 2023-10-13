@@ -27,12 +27,13 @@ Partial Class Form1
         ' 
         ' Button1
         ' 
+        Button1.BackColor = Color.DarkGray
         Button1.Location = New Point(335, 165)
         Button1.Name = "Button1"
         Button1.Size = New Size(75, 23)
         Button1.TabIndex = 0
         Button1.Text = "Ilsy"
-        Button1.UseVisualStyleBackColor = True
+        Button1.UseVisualStyleBackColor = False
         ' 
         ' Form1
         ' 
